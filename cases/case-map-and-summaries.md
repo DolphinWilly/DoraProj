@@ -100,3 +100,12 @@ This is the main thread of the second half of the course.
 |---|---|
 | *Massachusetts v. EPA* | States have special solicitude in standing; sovereign interests are cognizable; court willing to review agency inaction on major policy questions |
 | *Heckler v. Chaney* | Agency refusal to enforce is presumptively unreviewable — committed to agency discretion unless statute imposes enforceable duty |
+
+---
+
+### Congressional Control
+
+| Case | One-line exam version |
+|---|---|
+| *INS v. Chadha* | Legislative veto unconstitutional — congressional action with the purpose and effect of altering legal rights must comply with bicameralism and Presentment Clause |
+| *Bowsher v. Synar* | Congress cannot vest executive power in an officer subject to congressional removal; the only constitutional congressional removal mechanism is impeachment |
