@@ -172,3 +172,139 @@ Medical interns, residents, and fellows are "employees" within the meaning of NL
 - Often similar to formal adjudication in practice (due process requirements, cultural norms about adjudication)
 - But more varied in character — procedures set by agency's own rules, not APA
 - The NHTSA civil penalty procedure is an example: proposed through notice-and-comment rulemaking, but applicable to an informal adjudicatory action (assessing civil penalties)
+
+---
+
+## SEC v. Jarkesy (2024)
+603 U.S. ___ (2024)
+
+### Doctrinal Category
+Agency adjudication; Seventh Amendment jury trial right; public rights exception; Article III; civil penalties; securities fraud
+
+### Facts
+The SEC brought an in-house enforcement action against investment adviser George Jarkesy and his firm Patriot28 for alleged violations of the antifraud provisions of the Securities Act of 1933, Securities Exchange Act of 1934, and Investment Advisers Act of 1940. The three antifraud provisions (§17(a), §10(b)/Rule 10b-5, §206(b)/Rule 206(4)-8) all target the same basic conduct: misrepresenting or concealing material facts.
+
+**The two-forum structure:**
+- Federal court: jury finds facts, Article III judge presides, Federal Rules of Evidence and discovery apply
+- In-house: no jury; Commission or ALJ presides, finds facts, decides discovery disputes; SEC Rules of Practice govern; hearsay and otherwise inadmissible evidence permitted; factual findings reviewed deferentially ("conclusive" if supported by record)
+
+**The Dodd-Frank expansion:** Originally, the SEC could obtain civil penalties only in federal court (except against registered entities). The Dodd-Frank Act (2010) made the SEC's administrative penalty authority coextensive with its federal court authority — the SEC can now seek civil penalties in either forum.
+
+**The specific facts:** Between 2007-2010, Jarkesy launched two investment funds raising ~$24 million from 120 accredited investors. The SEC alleged Jarkesy and Patriot28 misled investors by: (1) misrepresenting investment strategies, (2) lying about the identity of the funds' auditor and prime broker, and (3) inflating the funds' claimed value to collect larger management fees. The SEC chose in-house adjudication. The 2020 final order levied $300,000 in civil penalties, ordered disgorgement, issued a cease-and-desist order, and barred Jarkesy from the securities industry.
+
+**Fifth Circuit:** Vacated on three grounds — (1) Seventh Amendment jury trial violation; (2) nondelegation doctrine violation (Congress gave SEC unrestricted choice of forum without adequate guidance); (3) dual for-cause removal protection for SEC ALJs violated separation of powers (*Free Enterprise Fund*). The Supreme Court affirmed only on the Seventh Amendment ground and did not reach the other two.
+
+### Issue
+When the SEC seeks civil penalties against a defendant for securities fraud, does the Seventh Amendment entitle the defendant to a jury trial?
+
+### Holding
+Yes. The Seventh Amendment entitles the defendant to a jury trial when the SEC seeks civil penalties for securities fraud. The public rights exception does not apply. Affirmed and remanded.
+
+---
+
+### Reasoning
+
+**Step 1 — Does this action implicate the Seventh Amendment?**
+
+**Historical foundation of the jury trial right**
+- The right to jury trial is "of such importance and occupies so firm a place in our history and jurisprudence that any seeming curtailment of the right should be scrutinized with the utmost care" (*Dimick v. Schiedt*)
+- The British practice of siphoning adjudications to juryless admiralty, vice admiralty, and chancery courts was a specific grievance cited in the Declaration of Independence
+- The "most successful" critique of the proposed Constitution was its lack of a civil jury trial guarantee — the Framers adopted the Seventh Amendment specifically to fix this
+- "Every encroachment upon it has been watched with great jealousy" (*Parsons v. Bedford*)
+
+**Scope of "Suits at common law"**
+- Not limited to common law forms of action existing at ratification
+- Justice Story: "common law" in the Amendment means "in contradistinction to equity, and admiralty, and maritime jurisprudence"
+- The Amendment "embraces all suits which are not of equity or admiralty jurisdiction, whatever may be the peculiar form which they may assume" (*Parsons*)
+- Extends to statutory claims that are "legal in nature" — the statutory nature of the claim is immaterial (*Tull*)
+
+**The *Tull* framework — two factors, remedy is more important**
+- *Tull* (1987): Government sued a real estate developer for civil penalties under the Clean Water Act; developer invoked jury trial right
+- Court surveyed early cases: "Actions by the Government to recover civil penalties under statutory provisions historically had been viewed as a type of action in debt requiring trial by jury"
+- Two factors: (1) does the cause of action resemble common law causes of action? (2) is the remedy the sort traditionally obtained in a court of law?
+- Remedy is the "more important" consideration because some causes of action sound in both law and equity
+
+**The legal/equitable distinction for monetary remedies**
+- Money damages are the prototypical common law remedy
+- A monetary remedy is legal if designed to punish or deter the wrongdoer
+- A monetary remedy is equitable if designed solely to "restore the status quo" (e.g., disgorgement of unjust enrichment)
+- "A civil sanction that cannot fairly be said solely to serve a remedial purpose, but rather can only be explained as also serving either retributive or deterrent purposes, is punishment" (*Austin v. United States*)
+- Courts of equity could order return of unjustly obtained funds; only courts of law issued monetary penalties to "punish culpable individuals"
+- Civil penalties = "a type of remedy at common law that could only be enforced in courts of law" (*Tull*) — same is true here
+
+The Seventh Amendment preserves the right to jury trial in "Suits at common law." This right is not limited to common law forms of action existing at ratification — it embraces all suits that are "legal in nature."
+
+Two-factor test (from *Granfinanciera* and *Tull*):
+1. Does the cause of action resemble common law causes of action?
+2. Is the remedy the sort traditionally obtained in a court of law?
+
+The remedy is the more important factor — and here it is "all but dispositive":
+- The SEC seeks civil penalties — monetary relief
+- Civil penalties are legal in nature when designed to punish or deter, not solely to restore the status quo
+- The Acts condition penalty availability on culpability, deterrence, and recidivism — these go beyond restoring the status quo
+- The SEC is not obligated to use penalties to compensate victims
+- Civil penalties are "a type of remedy at common law that could only be enforced in courts of law" (*Tull*)
+
+The close relationship between federal securities fraud and common law fraud confirms the action is legal in nature:
+- Both target the same basic conduct: misrepresenting or concealing material facts
+- Congress used "fraud" and other common law terms of art in drafting the securities laws — incorporating common law fraud prohibitions
+- The Court regularly applies common law fraud principles when interpreting federal securities law
+
+**Step 2 — Does the public rights exception apply?**
+
+The public rights exception allows Congress to assign certain matters to agencies without a jury. Recognized categories: collection of revenue, customs law, immigration, relations with Indian tribes, administration of public lands, granting of public benefits.
+
+The exception does NOT apply here because:
+
+**The private rights baseline**
+- The Constitution prevents Congress from withdrawing from judicial cognizance any matter that is "the subject of a suit at the common law" (*Murray's Lessee*)
+- If a suit is in the nature of a common law action, it presumptively concerns private rights — Article III adjudication with a jury is mandatory
+
+**Granfinanciera controls**
+- *Granfinanciera* (1989): Congress cannot designate fraudulent conveyance actions as "core bankruptcy proceedings" to avoid jury trial — those actions are "quintessentially suits at common law" and not "closely intertwined" with the bankruptcy process
+- The same logic applies here: SEC antifraud claims target the same conduct as common law fraud, use the same terms of art, operate under similar legal principles — this is a matter of "private rather than public right"
+
+**Congress cannot conjure away the Seventh Amendment**
+- Congress cannot "conjure away the Seventh Amendment by mandating that traditional legal claims be taken to an administrative tribunal" (*Granfinanciera*)
+- The SEC's argument that the public rights exception applies because Congress created new statutory obligations and committed enforcement to an agency fails — the substance of the suit controls, not where it is brought, who brings it, or how it is labeled
+
+**Atlas Roofing distinguished**
+- *Atlas Roofing* (1977): Congress could assign OSHA adjudications to an agency because the claims involved "a new cause of action and remedies therefor, unknown to the common law"
+- Here, the statutory claim is "in the nature of" a common law suit — *Atlas Roofing* applies only to genuinely novel causes of action with no common law analog
+- *Tull* clarified: the Seventh Amendment applies to novel statutory regimes so long as the statutory claims are akin to common law claims
+
+---
+
+### Rule
+When the government seeks civil penalties for conduct that replicates a common law cause of action (here, fraud), the Seventh Amendment entitles the defendant to a jury trial. The public rights exception does not permit Congress to assign such actions to agency adjudication without a jury. Congress cannot avoid the Seventh Amendment by labeling a traditional legal claim as a statutory one and committing it to an administrative tribunal.
+
+---
+
+### Significance
+
+**Major constraint on agency adjudicatory authority**
+- Directly limits the SEC's (and potentially other agencies') ability to adjudicate civil penalty cases in-house
+- Any agency enforcement action seeking civil penalties for conduct that resembles a common law cause of action must be brought in federal court with a jury
+- Dodd-Frank's expansion of SEC in-house adjudication authority is constitutionally limited
+
+**The two-part test for Seventh Amendment applicability**
+1. Does the cause of action resemble common law causes of action?
+2. Is the remedy legal in nature (punitive/deterrent rather than purely restorative)?
+- Remedy is the more important factor
+- Civil penalties = legal remedy → Seventh Amendment applies
+
+**Public rights exception — narrowed**
+- The exception covers genuinely governmental prerogatives (revenue, customs, immigration, public lands, public benefits) and truly novel statutory causes of action with no common law analog
+- It does NOT cover statutory claims that replicate common law causes of action, even if Congress labels them as new
+- The substance of the suit controls, not its label or forum
+
+**Connection to agency adjudication doctrine**
+- Agencies retain broad adjudicatory authority over public rights matters
+- But when agency enforcement targets private rights through civil penalties for common-law-like conduct → Article III court + jury required
+- This limits the Chenery/Bell Aerospace principle: agencies can choose adjudication over rulemaking for policymaking, but cannot use in-house adjudication to adjudicate what are essentially private rights claims
+
+**Exam use**
+- When an agency seeks civil penalties for conduct resembling a common law cause of action → *Jarkesy* → Seventh Amendment requires jury trial in Article III court
+- Distinguish: genuinely novel statutory causes of action with no common law analog (*Atlas Roofing*) → public rights exception may apply
+- The remedy test: punitive/deterrent civil penalties = legal remedy = Seventh Amendment applies; purely restorative remedies = equitable = no jury right
+- Note the two unresolved Fifth Circuit grounds: (1) nondelegation — does giving the SEC unrestricted forum choice without adequate guidance violate the nondelegation doctrine? (2) dual for-cause removal — do two layers of for-cause protection for SEC ALJs violate *Free Enterprise Fund*? The Supreme Court did not reach these — they remain open questions with significant implications for agency adjudicatory authority broadly
